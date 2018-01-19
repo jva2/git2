@@ -5,6 +5,7 @@ public class git2
 	{
 		System.out.println( "Hello Git!" );
 		System.out.println( "First change" );
+		System.out.prnitln( "Second change" );
 	}
 }
 
